@@ -31,7 +31,7 @@ function SearchBox() {
     <button type="submit"
     disabled={!input}
     className={`
-      ${input ? 'bg-gray-600 h-11 w-24 rounded-full text-orange-400' : 'text-gray-700 opacity-50 bg-gray-400 h-11 w-24 rounded-full'}
+      ${input ? 'bg-gray-600 h-11 w-24 rounded-full text-orange-800' : 'text-gray-700 opacity-50 bg-gray-400 h-11 w-24 rounded-full'}
   `}>Search</button>
 
    </form>

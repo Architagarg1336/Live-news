@@ -2,7 +2,7 @@
 import { usePathname } from 'next/navigation';
 import { categories } from '../../constants'
 
-import NavLink from '../NavLink';
+import NavLink from './NavLink';
 function NavLinks() {
 
   const pathname = usePathname();
