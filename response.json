@@ -1,0 +1,118 @@
+{
+  "pagination": {
+    "limit": 25,
+    "count": 25,
+    "offset": 0,
+    "total": 10000
+  },
+  "data": [
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "The abstract show revolves around the theme of the many personas we carry within ourselves",
+      "image": "https://th-i.thgim.com/public/incoming/o4deh3/article68902060.ece/alternates/LANDSCAPE_1200/sushi2.jpeg",
+      "language": "en",
+      "published_at": "2024-11-23T11:41:30Z",
+      "source": "The Hindu",
+      "title": "Hyderabad| Sushisurge's canvases explore evolving personas",
+      "url": "https://www.thehindu.com/entertainment/art/sushisurges-canvases-explore-evolving-personas-in-hyderabad/article68897316.ece"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "Following a complaint by the TTD that the ghee supplied by A.R. Dairy in Dindigul allegedly contained animal fat, the Tirupati Police had registered a case against the unit about two months ago.",
+      "image": "https://th-i.thgim.com/public/incoming/8gw8g0/article68901912.ece/alternates/LANDSCAPE_1200/10216_20_9_2024_15_30_48_4_20_09_2024_AR_DAIRY_2.JPG",
+      "language": "en",
+      "published_at": "2024-11-23T11:06:31Z",
+      "source": "The Hindu",
+      "title": "Tirupati laddu row: Police investigate premises of private dairy unit in Dindigul",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tirupati-laddu-row-police-investigate-premises-of-private-dairy-unit-in-dindigul/article68901728.ece"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "The Deputy CM said he succeeded in breaking the 'chakravyuh' of opposition due to the support of voters, the BJP team and party leaders",
+      "image": "https://th-i.thgim.com/public/incoming/45t6pi/article68901975.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202024-11-23%20at%204.02.08%20PM.jpeg",
+      "language": "en",
+      "published_at": "2024-11-23T11:02:19Z",
+      "source": "The Hindu",
+      "title": "No row over Maharashtra CM's post; leaders of Mahayuti will decide: Devendra Fadnavis",
+      "url": "https://www.thehindu.com/elections/maharashtra-assembly/no-row-over-maharashtra-cms-post-leaders-of-mahayuti-will-decide-devendra-fadnavis/article68901930.ece"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "Praising PM Modi for the landslide victory in Maharashtra Mr. Sanjay said it was the development mantra that pulled people towards the BJP",
+      "image": "https://th-i.thgim.com/public/incoming/o36osw/article68901874.ece/alternates/LANDSCAPE_1200/20241018254L.jpg",
+      "language": "en",
+      "published_at": "2024-11-23T10:27:22Z",
+      "source": "The Hindu",
+      "title": "Maharashtra election results 2024: Poor record of Congress in Telangana resulted in Congress rout in Maharashtra, says Bandi Sanjay",
+      "url": "https://www.thehindu.com/news/national/telangana/maharashtra-election-results-2024-poor-record-of-congress-in-telangana-resulted-in-congress-rout-in-maharashtra-says-bandi-sanjay/article68901817.ece"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "The election results will have implications on some pertinent questions in the political discourse.",
+      "image": "https://th-i.thgim.com/public/incoming/7yr2dv/article68901865.ece/alternates/LANDSCAPE_1200/2024-11-23T093823Z_358292413_RC2I3AAT15ZE_RTRMADP_3_INDIA-POLITICS.JPG",
+      "language": "en",
+      "published_at": "2024-11-23T10:16:28Z",
+      "source": "The Hindu",
+      "title": "Ideology, welfare, and caste census: What do Maharashtra and Jharkhand results tell us about them",
+      "url": "https://www.thehindu.com/news/national/ideology-welfare-and-caste-census-what-do-maharashtra-and-jharkhand-results-tell-us-about-them/article68901787.ece"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "In seats reserved for SCs — considered to be INDIA bloc's weak area — the alliance has improved its vote share the most by over 11 percentage points",
+      "image": "https://th-i.thgim.com/public/incoming/n8e3vt/article68901407.ece/alternates/LANDSCAPE_1200/PTI11_23_2024_000070B.jpg",
+      "language": "en",
+      "published_at": "2024-11-23T10:12:26Z",
+      "source": "The Hindu",
+      "title": "Jharkhand election results 2024: INDIA bloc nearing clean sweep in all seats reserved for scheduled tribes",
+      "url": "https://www.thehindu.com/data/jharkhand-election-results-2024-india-bloc-nearing-clean-sweep-in-all-seats-reserved-for-scheduled-tribes/article68901525.ece"
+    },
+    {
+      "author": null,
+      "category": "general",
+      "country": "in",
+      "description": "The DMK will be unseated from power in Tamil Nadu in 2026, says the former Telangana Governor",
+      "image": "https://th-i.thgim.com/public/incoming/yoest8/article68901842.ece/alternates/LANDSCAPE_1200/IMG_TAMILISAI_SOUNDARARA_2_1_83DGG84C.jpg",
+      "language": "en",
+      "published_at": "2024-11-23T10:11:31Z",
+      "source": "The Hindu",
+      "title": "Mahayuti's victory in Maharashtra reflects people's mindset across India, says Tamilisai",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/mahayutis-victory-in-maharashtra-reflects-peoples-mindset-across-india-says-tamilisai/article68901724.ece"
+    },
+    {
+      "author": "Debayan Sinha",
+      "category": "sports",
+      "country": "in",
+      "description": "After bowling out Australia for 104 runs and taking a 46-run lead, India had a strong outing with the bat. With the pitch offering little assistance to the Aussie bowlers, Indian openers Yashasvi Jaiswal and KL Rahul built a solid partnership, taking India to 172/0 at the end of Day 2.",
+      "image": "https://sportscafe.in/img/es3-cfill-w480-h240/articles/cricket-2023/Rahul_Jaiswal-1000x1000.webp",
+      "language": "en",
+      "published_at": "2024-11-23T10:07:07Z",
+      "source": "Sportscafe",
+      "title": "BGT 2024 | Jaiswal and Rahul form an impenetrable wall, leaving Aussies frustrated as India takes control",
+      "url": "https://sportscafe.in/cricket/articles/2024/nov/23/bgt-2024-jaiswal-and-rahul-form-an-impenetrable-wall-leaving-aussies-frustrated-as-india-takes-control?utm_medium=rss"
+    },
+    {
+      "author": null,
+      "category": "environment",
+      "country": "fr",
+      "description": "France announces a new initiative aimed at combating climate change and reducing emissions.",
+      "image":null,
+      "language": "en",
+      "published_at": "2024-11-23T07:00:00Z",
+      "source": "Le Monde",
+      "title": "France's ambitious climate plan: What it means for Europe",
+      "url": "https://www.lemonde.fr/france-climate-plan-12345678"
+    }
+  ]
+  }
